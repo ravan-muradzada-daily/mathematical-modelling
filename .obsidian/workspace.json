@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "07b4b58b0b483570",
@@ -183,8 +182,10 @@
   },
   "active": "2512de82383acd48",
   "lastOpenFiles": [
+    "img/matrix_in_simplex_method_3.png",
+    "img/matrix_in_simplex_method_2.png",
     "img/system_in_simplex_method.png",
-    "img/matrix_in_simplex_method.png",
+    "img/matrix_in_simplex_method_1.png",
     "07.Simplex Method.md",
     "Pasted image 20250301020743.png",
     "Pasted image 20250301020743 1.png",
