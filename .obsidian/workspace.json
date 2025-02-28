@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "07.Simplex Method.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,15 +182,15 @@
   },
   "active": "2512de82383acd48",
   "lastOpenFiles": [
+    "06.The Table method.md",
+    "07.Simplex Method.md",
     "img/matrix_in_simplex_method_3.png",
     "img/matrix_in_simplex_method_2.png",
     "img/system_in_simplex_method.png",
     "img/matrix_in_simplex_method_1.png",
-    "07.Simplex Method.md",
     "Pasted image 20250301020743.png",
     "Pasted image 20250301020743 1.png",
     "img/matrix_from_simplex_method.png",
-    "06.The Table method.md",
     "img/solved_table.png",
     "02.Modelling of verbal problems.md",
     "05.Existance of optimal solution (in graphical method).md",
