@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4dc25228d0bdb7",
+        "id": "f7791063e4ecd4ef",
         "type": "tabs",
         "children": [
           {
-            "id": "b38f0d85fe184e1a",
+            "id": "96aa76ec6a75aeec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.Existance of optimal solution (in graphical method).md",
+                "file": "06.The Tablo method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.Existance of optimal solution (in graphical method)"
+              "title": "06.The Tablo method"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.Existance of optimal solution (in graphical method).md",
+                "file": "06.The Tablo method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05.Existance of optimal solution (in graphical method)"
+              "title": "Backlinks for 06.The Tablo method"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05.Existance of optimal solution (in graphical method).md",
+                "file": "06.The Tablo method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 05.Existance of optimal solution (in graphical method)"
+              "title": "Outgoing links from 06.The Tablo method"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.Existance of optimal solution (in graphical method).md",
+                "file": "06.The Tablo method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05.Existance of optimal solution (in graphical method)"
+              "title": "Outline of 06.The Tablo method"
             }
           },
           {
@@ -180,13 +180,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b38f0d85fe184e1a",
+  "active": "96aa76ec6a75aeec",
   "lastOpenFiles": [
-    "04.Graph of system of linear inequalities.md",
+    "02.Modelling of verbal problems.md",
+    "06.The Tablo method.md",
     "05.Existance of optimal solution (in graphical method).md",
+    "04.Graph of system of linear inequalities.md",
     "Untitled",
     "03.Graph of linear inequalities.md",
-    "02.Modelling of verbal problems.md",
     "img/graphOf_systemOf_linear_equalities.png",
     "img/graphOf_linear_inequalities.png",
     "img",
